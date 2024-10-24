@@ -6,17 +6,48 @@
     <mj-raw>
       <!-- Top Bar -->
     </mj-raw>
+    
+    
+    
+    
     <mj-section background-color="#FFF" padding="0px">
       <mj-column>
         <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/semana-do-patrono-2023/" style="color:#000;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
+    
+    <mj-section  padding="0" border-radius="25px">
+      
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="23px">
+      <mj-column background-color="#222a32" border-radius="20px" width="100%">
+         <mj-text color="#FFF">Newsletter #1</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/header-esjal.png"></mj-image>
+      </mj-column>
+      <mj-column>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
     <mj-raw>
       <!-- Top Bar -->
     </mj-raw>
      <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-image align="center" width="100px" src="img/diretora-esjal.png"></mj-image>
+         <mj-image align="left" width="80px" src="img/diretora-esjal.png"></mj-image>
       </mj-column>
       <mj-column>
       </mj-column>
@@ -28,27 +59,33 @@
             <br/>Diretora do Agrupamento de Escolas José Afonso, Loures
           </p>
           <p style="font-style: italic; color:#151e23; line-height: 19px">
-          Novos Tempos, Novos Desafios, é nesta máxima que podemos enquadrar os Centros Tecnológicos Especializados, de Informática e Digital do Agrupamento de Escolas José Afonso, Loures. Os percursos são longos e árduos, apesar de desafiantes. Toda a comunidade está consciente que para se observarem resultados é necessário fazer cedências e gerir constrangimentos, mas estamos unidos para acolher novas dinâmicas e crescermos em conjunto.
+          Novos Tempos, Novos Desafios, é nesta máxima que podemos enquadrar os Centros Tecnológicos Especializados, de Informática e Digital, do Agrupamento de Escolas José Afonso, Loures. Os percursos são longos e árduos, apesar de desafiantes. Toda a comunidade está consciente que para se observarem resultados é necessário fazer cedências e gerir constrangimentos, mas estamos unidos para acolher novas dinâmicas e crescermos em conjunto.
           </p>
       </mj-text>
       </mj-column>
     </mj-section>
+    
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
         <mj-image href="https://www.esjaloures.org/" width="600px" src="img/barra_parceiros_prr_
 esjal.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
-        
       </mj-column>
     </mj-section>
-    
-    
-    
-     <mj-section padding="0px">
+     <mj-section 
+                 
+                 
+                  background-color="#000000" background-url="" background-repeat="no-repeat" padding-top="80px" padding-bottom="0px" padding-left="20px">
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="15px 10px">
          
-          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
-            <span style="color:#111111 !important; text-decoration:none;">
+          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#FFF; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
+            <span style="color:#FFF; !important; text-decoration:none;">
               <strong>Escola Secundária de José Afonso (Escola sede)</strong>
               <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email esjaloures@esjaloures.org
             </span>
