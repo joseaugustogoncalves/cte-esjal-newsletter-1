@@ -10,21 +10,17 @@
     
     
     
-    <mj-section background-color="#FFF" padding="0px">
+    <mj-section background-color="#FFF">
       <mj-column>
-        <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/semana-do-patrono-2023/" style="color:#000;" target="_blank">browser</a>.</mj-text>
-      </mj-column>
-    </mj-section>
-    
-    <mj-section  padding="0" border-radius="25px">
-      
-      <mj-column>
+        <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/" style="color:#000;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="23px">
-      <mj-column background-color="#222a32" border-radius="20px" width="100%">
-         <mj-text color="#FFF">Newsletter #1</mj-text>
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/barra-number-esjal.png"></mj-image>
+      </mj-column>
+      <mj-column>
       </mj-column>
     </mj-section>
     
@@ -78,14 +74,11 @@
 esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
       </mj-column>
     </mj-section>
-     <mj-section 
-                 
-                 
-                  background-color="#000000" background-url="" background-repeat="no-repeat" padding-top="80px" padding-bottom="0px" padding-left="20px">
+     <mj-section background-color="#222a22" background-url="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/img/footer-bg-esjal.png" background-repeat="no-repeat" padding-top="10px">
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="15px 10px">
          
-          <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#FFF; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
+          <p style="Margin:0; padding-bottom:10px; font-size:12px; line-height:15px; Margin-bottom:10px; color:#FFF; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
             <span style="color:#FFF; !important; text-decoration:none;">
               <strong>Escola Secundária de José Afonso (Escola sede)</strong>
               <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email esjaloures@esjaloures.org
