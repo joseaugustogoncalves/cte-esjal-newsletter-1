@@ -68,13 +68,14 @@
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
          <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
+        
       </mj-column>
     </mj-section>
     
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
         <mj-image href="https://www.esjaloures.org/" width="600px" src="img/barra_parceiros_prr_
-esjal.png" align="center" border="none" padding="0px" alt="Semana do Patrono 2023 - Programa"></mj-image>
+esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
       </mj-column>
     </mj-section>
      <mj-section 
