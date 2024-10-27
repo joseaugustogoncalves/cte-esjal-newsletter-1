@@ -10,7 +10,7 @@
     
     
     
-    <mj-section background-color="#FFF">
+    <mj-section background-color="#FFF" padding="0">
       <mj-column>
         <mj-text color="#000" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/" style="color:#000;" target="_blank">browser</a>.</mj-text>
       </mj-column>
@@ -20,15 +20,11 @@
       <mj-column width="100%">
          <mj-image align="center" width="600px" src="img/barra-number-esjal.png"></mj-image>
       </mj-column>
-      <mj-column>
-      </mj-column>
     </mj-section>
     
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
          <mj-image align="center" width="600px" src="img/header-esjal.png"></mj-image>
-      </mj-column>
-      <mj-column>
       </mj-column>
     </mj-section>
 
@@ -45,8 +41,6 @@
       <mj-column width="100%">
          <mj-image align="left" width="80px" src="img/diretora-esjal.png"></mj-image>
       </mj-column>
-      <mj-column>
-      </mj-column>
     </mj-section>
     <mj-section padding="0">
       <mj-column>
@@ -61,13 +55,78 @@
       </mj-column>
     </mj-section>
     
+    
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/esquema-cte-esjal.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding="0 25px" font-size="14px">
+          <p style="color:##151e23; font-size:12px line-height: 18px">
+            <br/>Aqui vem um pequeno texto do cte
+          </p>
+          <p style="color:#151e23; line-height: 19px">
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+      </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/barra-salas-esjal.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding="0 25px" font-size="14px">
+          <p style="color:##151e23; font-size:12px line-height: 18px">
+            <br/>Aqui vem o texto e imagens das salas
+          </p>
+          <p style="color:#151e23; line-height: 19px">
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+      </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/barra-sala-mf-esjal.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text padding="0 25px" font-size="14px">
+          <p style="color:##151e23; font-size:12px line-height: 18px">
+            <br/>Aqui vem o texto e imagens das salas
+          </p>
+          <p style="color:#151e23; line-height: 19px">
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+          </p>
+      </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
          <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
         
       </mj-column>
     </mj-section>
-    
+    <mj-section background-color="#FFF" padding="0px">
+      <mj-column width="50%">
+        <mj-image href="https://www.esjaloures.org/" width="180px" src="img/cte-logo-no-bg-esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image href="https://www.esjaloures.org/" width="180px" src="img/logo-esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
         <mj-image href="https://www.esjaloures.org/" width="600px" src="img/barra_parceiros_prr_
