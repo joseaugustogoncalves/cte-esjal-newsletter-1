@@ -126,14 +126,7 @@
         
       </mj-column>
     </mj-section>
-    <mj-section background-color="#FFF" padding="0px">
-      <mj-column width="50%">
-        <mj-image href="https://www.esjaloures.org/" width="180px" src="img/cte-logo-no-bg-esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
-      </mj-column>
-      <mj-column width="50%">
-        <mj-image href="https://www.esjaloures.org/" width="180px" src="img/logo-esjal.png" align="center" border="none" padding="0px" alt="Parceiro PRR"></mj-image>
-      </mj-column>
-    </mj-section>
+   
     <mj-section background-color="#FFF" padding="0px">
       <mj-column width="100%">
         <mj-image href="https://www.esjaloures.org/" width="600px" src="img/barra_parceiros_prr_
