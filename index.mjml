@@ -95,10 +95,12 @@
           <p style="color:##151e23; font-size:12px line-height: 18px">
             <br/>Aqui vem o texto e imagens das salas
           </p>
-          <p style="color:#151e23; line-height: 19px">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-          </p>
       </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#FFF" padding="0">
+      <mj-column width="100%">
+         <mj-image align="center" width="600px" src="img/cte1-esjal.png"></mj-image>
       </mj-column>
     </mj-section>
     
@@ -114,9 +116,7 @@
           <p style="color:##151e23; font-size:12px line-height: 18px">
             <br/>Aqui vem o texto e imagens das salas
           </p>
-          <p style="color:#151e23; line-height: 19px">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-          </p>
+          
       </mj-text>
       </mj-column>
     </mj-section>
