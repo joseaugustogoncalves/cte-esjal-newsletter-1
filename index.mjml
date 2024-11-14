@@ -85,7 +85,7 @@
     
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-text font-weight="bold" align="left" font-size="20px" color="#000" font-family="helvetica">Espaço de Aprendizagem Ativa</mj-text>
+         <mj-text font-weight="bold" align="left" font-size="18px" color="#000" font-family="helvetica">Espaço de Aprendizagem Ativa</mj-text>
       </mj-column>
     </mj-section>
     
@@ -104,11 +104,11 @@
       
       <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-text font-weight="bold" align="left" font-size="20px" color="#000" font-family="helvetica">Trabalho de Projeto</mj-text>
+         <mj-text font-weight="bold" align="left" font-size="18px" color="#000" font-family="helvetica">Trabalho de Projeto</mj-text>
       </mj-column>
     </mj-section>
     
-     <mj-section background-color="#FFF" padding="0">
+     <mj-section background-color="#FFF">
       <mj-column width="100%">
          <mj-image align="center" width="600px" src="img/cte1-esjal.png"></mj-image>
       </mj-column>
@@ -123,15 +123,29 @@
       
       <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-text font-weight="bold" align="left" font-size="20px" color="#000" font-family="helvetica">Maior acessibilidade a dados</mj-text>
+         <mj-text font-weight="bold" align="left" font-size="18px" color="#000" font-family="helvetica">Maior acessibilidade a dados</mj-text>
       </mj-column>
     </mj-section>
-    
-     <mj-section background-color="#FFF" padding="0">
-      <mj-column width="100%">
-         <mj-image align="center" width="600px" src="img/cte1-esjal.png"></mj-image>
+      
+        <mj-section padding="0 25px">
+      <!-- Primeira coluna com uma imagem -->
+      <mj-column width="50%" vertical-align="top" padding="1px 1px 1px 1px">
+        <!-- Defina a altura fixa para esta imagem -->
+        <mj-image align="center" src="img/MaiorAcessibilidadeDeDados1-esjal.png" padding="0px" height="298px" />
+      </mj-column>
+
+      <!-- Segunda coluna com duas imagens, uma em cima da outra -->
+      <mj-column padding="0px 1px 0px 1px" width="50%" vertical-align="top">
+        <!-- Divida a altura da imagem única entre as duas imagens -->
+        <mj-image align="center" src="img/MaiorAcessibilidadeDeDados2-esjal.png" padding="0 0 1px 0px" height="149px" />
+        <mj-image align="center" src="img/MaiorAcessibilidadeDeDados3-esjal.png" padding="1px 0px 0px 0px" height="149px" />
       </mj-column>
     </mj-section>
+      
+      
+      
+      
+      
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
          <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
@@ -142,7 +156,7 @@
       
       <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-text font-weight="bold" align="left" font-size="20px" color="#000" font-family="helvetica">Trabalho interdisciplinar e colaborativo</mj-text>
+         <mj-text font-weight="bold" align="left" font-size="18px" color="#000" font-family="helvetica">Trabalho interdisciplinar e colaborativo</mj-text>
       </mj-column>
     </mj-section>
     
