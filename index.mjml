@@ -187,14 +187,14 @@
 esjal.png" align="center" border="none" alt="Parceiro PRR"></mj-image>
       </mj-column>
     </mj-section>
-     <mj-section background-color="#222a22" background-url="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/img/footer-bg-esjal.png" background-repeat="cover" >
+     <mj-section background-color="#222a22" background-url="https://joseaugustogoncalves.github.io/cte-esjal-newsletter-1/img/footer-bg-esjal.png" background-repeat="no-repeat" >
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="10px 10px">
          
           <p style="Margin:0; padding-bottom:0px; font-size:11px; line-height:15px; margin-bottom:5px; color:#FFF; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
             <span style="color:#FFF; !important; text-decoration:none;">
               <strong>Escola Secundária de José Afonso (Escola sede)</strong>
-              <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email esjaloures@esjaloures.org
+              <br />RUA da REPÚBLICA 2670 - 468 LOURES | Tel. +351 21 982 71 10 | Email geral_cte@esjaloures.org
             </span>
             <br />
           </p>
