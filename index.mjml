@@ -31,7 +31,7 @@
     
     <mj-section background-color="#FFF" padding="0">
       <mj-column width="100%">
-         <mj-image align="center" width="600px" height="5px"src="img/divider-esjal.png"></mj-image>
+         <mj-image align="center" width="600px" height="5px" src="img/divider-esjal.png"></mj-image>
       </mj-column>
     </mj-section>
     
